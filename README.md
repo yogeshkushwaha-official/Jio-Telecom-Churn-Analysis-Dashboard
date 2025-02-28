@@ -1,4 +1,4 @@
-# Jio Telecom Churn Analysis Dashboard
+# ![Jio Telecom Churn Analysis Dashboard](https://drive.google.com/file/d/1eAmhyMElfR0Uq3f94JZYssYPn0lMU0h6/view?usp=sharing)
 
 ## 📊 Project Overview
 This project focuses on analyzing customer churn patterns for Jio Telecom using a Tableau dashboard. The goal is to identify key factors contributing to customer exits and provide data-driven insights to improve retention strategies.
