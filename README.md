@@ -23,7 +23,6 @@ This project focuses on analyzing customer churn patterns for Jio Telecom using 
 
 ## 🔗 Project Links
 - **Interactive Tableau Dashboard:** [https://public.tableau.com/app/profile/yogesh.kushwaha/viz/JioChurnDashboard/Dashboard1?publish=yes]
-- **LinkedIn Post:** [Add LinkedIn post link after publishing]
   
 ## 📚 About Me
 I'm [Yogesh Kushwaha](https://www.linkedin.com/in/yogeshkushwaha-tech), a data analytics enthusiast passionate about uncovering insights through data visualization and AI technologies. Let’s connect!
